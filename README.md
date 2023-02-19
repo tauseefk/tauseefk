@@ -1,7 +1,7 @@
 ## Hi!
 
-I work on a lot of weird unrelated things, few recent unrelated prototypes:
-- Rust platformer: https://tauseefk.github.io/puddle-jumpr/
+These are some of the recent projects I've been working on:
+- Platformer video game: https://tauseefk.github.io/puddle-jumpr/
   - uses [animation transition](https://github.com/tauseefk/animation_transition)
 - Calendar event stacking: https://tauseefk.github.io/cal-ender
   - [repository](https://github.com/tauseefk/cal-ender)
