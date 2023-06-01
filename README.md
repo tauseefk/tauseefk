@@ -1,7 +1,7 @@
 ## Hi!
 
 These are some of the recent projects I've been working on:
-- React hooks for wrangling `ReadableStream`: [Readable-Hook](https://github.com/tauseefk/readable-hook)
+- React hooks for wrangling `ReadableStream`: [readable-hook](https://github.com/tauseefk/readable-hook)
   - [Live](https://tauseefk.github.io/readable-hook)
 - Starship shell prompt configurator: [Hyperdrive](https://tauseefk.github.io/hyperdrive)
 - Platformer video game: [Toad](https://tauseefk.github.io/puddle-jumpr)
