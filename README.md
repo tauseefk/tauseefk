@@ -1,10 +1,9 @@
 ## Hi!
 
-These are some of the recent projects I've been working on:
-- React hooks for wrangling `ReadableStream`: [readable-hook](https://github.com/tauseefk/readable-hook)
-  - [Live](https://tauseefk.github.io/readable-hook)
-- Starship shell prompt configurator: [Hyperdrive](https://tauseefk.github.io/hyperdrive)
-- Platformer video game: [Toad](https://tauseefk.github.io/puddle-jumpr)
-  - uses [animation transition](https://github.com/tauseefk/animation_transition)
-- Calendar event stacking: [Cal-ender](https://tauseefk.github.io/cal-ender) 
-  - [repository](https://github.com/tauseefk/cal-ender)
+Here are some of the recent projects I've been working on:
+- [Dots](https://tauseefk.github.io/dots) - Either for cats or professional photographers, can't decide
+- [Pancakes](https://tauseefk.github.io/pancakes) - Mouse/touch experiment for UI elements
+  - uses [mouse-house](https://www.npmjs.com/package/mouse-house) for performant sticky pointer
+- [readable-hook](https://www.npmjs.com/package/readable-hook) - React hooks for wrangling `ReadableStream`
+- [Toad](https://tauseefk.github.io/toad) - Platformer video game
+- [Cal-ender](https://tauseefk.github.io/cal-ender) - Better calendar events stacking
