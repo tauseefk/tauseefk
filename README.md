@@ -1,7 +1,6 @@
+<img width="144" height="144" alt="rex-with-border@2x" src="https://github.com/user-attachments/assets/5264a118-61f8-4e45-baff-ef7689416e10" />
+
 ## Hi!
-
-<img width="288" height="288" alt="rex-with-border@2x" src="https://github.com/user-attachments/assets/5264a118-61f8-4e45-baff-ef7689416e10" />
-
 
 Here's what I've been up to recently:
 
