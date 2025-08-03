@@ -5,8 +5,8 @@
 Here's what I've been up to recently:
 
 #### Toys
+- [AWE](www.afloat.boats/awe) - WebGPU drawing (needs.. WebGPU)
 - [Flashlight](https://tauseefk.github.io/flashlight) - Roguelike-ish
-- [Toad](https://tauseefk.github.io/toad) - Platformer video game
 - [Dots](https://tauseefk.github.io/dots) - Photo-editor for cats
 - [Shakespeare](https://www.afloat.boats/shakespeare) - Read Shakespeare, like Pokémon dialog
 - [Pancakes](https://tauseefk.github.io/pancakes) - Mouse/touch experiment
