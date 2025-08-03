@@ -5,15 +5,15 @@
 Here's what I've been up to recently:
 
 #### Toys
-- [AWE](www.afloat.boats/awe) - WebGPU drawing (needs.. WebGPU)
-- [Flashlight](https://tauseefk.github.io/flashlight) - Roguelike-ish
-- [Dots](https://tauseefk.github.io/dots) - Photo-editor for cats
-- [Shakespeare](https://www.afloat.boats/shakespeare) - Read Shakespeare, like Pokémon dialog
-- [Pancakes](https://tauseefk.github.io/pancakes) - Mouse/touch experiment
+- [AWE](https://afloat.boats/awe) - WebGPU drawing (needs.. WebGPU)
+- [Flashlight](https://afloat.boats/flashlight) - Roguelike-ish
+- [Dots](https://afloat.boats/dots) - Photo-editor for cats
+- [Shakespeare](https://afloat.boats/shakespeare) - Read Shakespeare, like Pokémon dialog
+- [Pancakes](https://afloat.boats/pancakes) - Mouse/touch experiment
 
 #### Writings
-- [Skittles](https://www.afloat.boats/posts/skittles) - making of Dots
-- [Crossing](https://www.afloat.boats/posts/crossing-the-wasm) - making of Flashlight
+- [Skittles](https://afloat.boats/posts/skittles) - making of Dots
+- [Crossing](https://afloat.boats/posts/crossing-the-wasm) - making of Flashlight
 
 #### Libraries
 - [Rex](https://github.com/tauseefk/rex) - Observable streams, yeah again
