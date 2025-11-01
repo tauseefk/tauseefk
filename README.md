@@ -12,6 +12,7 @@ Here's what I've been up to recently:
 - [Pancakes](https://afloat.boats/pancakes) - Mouse/touch experiment
 
 #### Writings
+- [Rust for JavaScript Engineers](https://www.afloat.boats/posts/rust-for-javascript-engineers-pt-1) - building Connect-4
 - [Skittles](https://afloat.boats/posts/skittles) - making of Dots
 - [Crossing](https://afloat.boats/posts/crossing-the-wasm) - making of Flashlight
 
