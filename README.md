@@ -1,7 +1,7 @@
 <img width="144" height="144" alt="rex-with-border@2x" src="https://github.com/user-attachments/assets/5264a118-61f8-4e45-baff-ef7689416e10" />
 
 ## Hi!
-I'm Tauseef. I'm an engineer, and I like working on games and tools. In the past I've worked on things with millions of MAUs a [rich-text editor](https://www.tripoto.com/), a [photo editor](https://www.polarr.com/), RAG pipelines at [Paradigm](https://www.paradigm.xyz) and [Acely](https://acely.ai). Here's what I've been up to in my spare time:
+I'm Tauseef. I'm an engineer, and I like working on games and tools. In the past I've worked on things with millions of MAUs, like a [rich-text editor](https://www.tripoto.com/), a [photo editor](https://www.polarr.com/), RAG pipelines at [Paradigm](https://www.paradigm.xyz) and [Acely](https://acely.ai). Here's what I've been up to in my spare time:
 
 #### Toys
 - [AWE](https://afloat.boats/awe) - WebGPU drawing (needs.. WebGPU)
