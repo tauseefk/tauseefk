@@ -14,7 +14,6 @@ I'm Tauseef. I'm an engineer, and I like working on games and tools. In the past
 #### Writings
 - [Rust for JavaScript Engineers](https://www.afloat.boats/posts/rust-for-javascript-engineers-pt-1) - building Connect-4
 - [Skittles](https://afloat.boats/posts/skittles) - making of Dots
-- [Crossing](https://afloat.boats/posts/crossing-the-wasm) - making of Flashlight
 
 #### Libraries
 - [Rex](https://github.com/tauseefk/rex) - Observable streams, yeah again
