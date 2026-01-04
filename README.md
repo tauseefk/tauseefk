@@ -5,7 +5,7 @@ I'm Tauseef. I'm an engineer, and I like working on games and tools. In the past
 
 #### Toys
 - [AWE](https://afloat.boats/awe) - WebGPU drawing (needs.. WebGPU)
-- [CLK](https://afloat.boats/spiroclock) - Clock with animated bezels
+- [TRN](https://afloat.boats/turner) - Clock with animated bezels
 - [Flashlight](https://afloat.boats/flashlight) - Roguelike-ish
 - [Dots](https://afloat.boats/dots) - Photo-editor for cats
 - [Shakespeare](https://afloat.boats/shakespeare) - Read Shakespeare, like Pokémon dialog
