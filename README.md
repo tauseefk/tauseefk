@@ -4,10 +4,10 @@
 I'm Tauseef. I'm an engineer, and I like working on games and tools. In the past I've worked on things with millions of MAUs, like a [rich-text editor](https://www.tripoto.com/), a [photo editor](https://www.polarr.com/), RAG pipelines at [Paradigm](https://www.paradigm.xyz) and [Acely](https://acely.ai). Here's what I've been up to in my spare time:
 
 #### Experiments
+- [Boxe](https://afloat.boats/boxe) - Box-drawing
+- [Flashlight](https://afloat.boats/flashlight) - Roguelike-ish
 - [AWE](https://afloat.boats/awe) - WebGPU drawing (needs.. WebGPU)
 - [TRN](https://afloat.boats/turner) - Clock with animated bezels
-- [Flashlight](https://afloat.boats/flashlight) - Roguelike-ish
-- [Dots](https://afloat.boats/dots) - Photo-editor for cats
 - [Shakespeare](https://afloat.boats/shakespeare) - Read Shakespeare, like Pokémon dialog
 - [Pancakes](https://afloat.boats/pancakes) - Mouse/touch experiment
 
