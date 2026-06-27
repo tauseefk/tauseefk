@@ -5,11 +5,11 @@ I'm Tauseef. I'm an engineer, and I like working on games and tools. In the past
 
 #### Experiments
 - [Boxe](https://afloat.boats/boxe) - Box-drawing
+- [Glyf](https://afloat.boats/glyf) - weird SDF shapes
 - [Flashlight](https://afloat.boats/flashlight) - Roguelike-ish
 - [AWE](https://afloat.boats/awe) - WebGPU drawing (needs.. WebGPU)
 - [TRN](https://afloat.boats/turner) - Clock with animated bezels
 - [Shakespeare](https://afloat.boats/shakespeare) - Read Shakespeare, like Pokémon dialog
-- [Pancakes](https://afloat.boats/pancakes) - Mouse/touch experiment
 
 #### Writings
 - [Rust for JavaScript Engineers](https://www.afloat.boats/posts/rust-for-javascript-engineers-pt-1) - building Connect-4
