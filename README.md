@@ -5,7 +5,7 @@ I'm Tauseef. I'm an engineer, and I like working on games and tools. In the past
 
 #### Experiments
 - [Boxe](https://afloat.boats/boxe) - Box-drawing
-- [Glyf](https://afloat.boats/glyf) - weird SDF shapes
+- [Glyf](https://afloat.boats/glyf) | [Lava](https://afloat.boats/lava) - SDFs
 - [Flashlight](https://afloat.boats/flashlight) - Roguelike-ish
 - [AWE](https://afloat.boats/awe) - WebGPU drawing (needs.. WebGPU)
 - [TRN](https://afloat.boats/turner) - Clock with animated bezels
