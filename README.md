@@ -7,7 +7,7 @@ I'm Tauseef. I'm an engineer, and I like making games and tools. I've worked on 
 - [Boxe](https://afloat.boats/boxe) - Box-drawing
 - [Glyf](https://afloat.boats/glyf) | [Lava](https://afloat.boats/lava) - SDFs
 - [Flashlight](https://afloat.boats/flashlight) - Roguelike-ish
-- [AWE](https://afloat.boats/awe) - WebGPU drawing
+- [Crayon](https://afloat.boats/crayon) - A WebGPU drawing app
 - [TRN](https://afloat.boats/turner) | [PAC](https://afloat.boats/pac) - watchfaces
 - [Shakespeare](https://afloat.boats/shakespeare) - Shakespeare, like Pokémon dialog
 
